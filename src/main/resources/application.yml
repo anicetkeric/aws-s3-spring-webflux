@@ -1,0 +1,8 @@
+# AWS properties
+aws:
+  access-key: test
+  secret-key: test
+  region: eu-west-1
+  s3-bucket-name: my-test-bucket
+  multipart-min-part-size: 5242880 # 5MB
+  endpoint: http://localhost:4566/
